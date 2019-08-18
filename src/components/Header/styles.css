@@ -1,0 +1,19 @@
+.main-header {
+    
+  align-items: center;
+  display: flex;
+  grid-area: main-header;
+  padding: 0 2rem;
+
+  }
+
+  .menu__link {
+    color: #333333;
+    padding: .5rem 1rem;
+  }
+
+  .menu__link:hover {
+    border-bottom: 2px solid #0073e6;
+  }
+
+  
